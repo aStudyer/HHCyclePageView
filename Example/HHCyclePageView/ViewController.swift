@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import HHCyclePageView
 
 class ViewController: UIViewController {
     @IBOutlet weak var horCenterSwitch: UISwitch!
